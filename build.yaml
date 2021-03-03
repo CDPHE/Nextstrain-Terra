@@ -27,7 +27,6 @@ subsampling:
       max_sequences: 1500
       query: --query "country == '{country}' and division == '{division}'"
 
-    # Samples that are genetically related to the focal samples
     national-context:
       group_by: "usa_region year month"
       seq_per_group: 20
