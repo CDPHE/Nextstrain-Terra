@@ -7,9 +7,4 @@ Custom profile for CDPHE augur builds:
 - colors.txt = colors for nextstrain
 - lat_longs.txt = longitude and latitude coordinates
 
-Download these files, go to https://app.terra.bio/.
-Click on the "data" tab.
-Then click "files" at the bottom left hand menu.
-
-On the right side, there is a big "+" sign.  Click on that.
-Upload these files into the "terra-nextstrain files folder"
+Download these files, go to https://app.terra.bio/. Click on the "data" tab. Then click "files" at the bottom left hand menu. On the right side, there is a big "+" sign.  Click on that. Upload these files into the "terra-nextstrain files folder"
