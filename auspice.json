@@ -35,13 +35,13 @@
       "type": "categorical"
     },
     {
-      "key": "nextstrain_clade",
-      "title": "NextStrain Clade",
+      "key": "clade",
+      "title": "Clade",
       "type": "categorical"
     },
     {
-      "key": "pangolin_lineage",
-      "title": "Pangolin Lineage",
+      "key": "lineage",
+      "title": "Lineage",
       "type": "categorical"
     }
   ],
@@ -60,8 +60,8 @@
     "branch_label": "none"
   },
   "filters": [
-    "nextstrain_clade",
-    "pangolin_lineage",
+    "clade",
+    "lineage",
     "co_county_region",
     "location",
     "usa_region",
