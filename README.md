@@ -2,7 +2,9 @@
 
 Custom profile for CDPHE augur builds:
 - MN908947.gb = covid19 reference gene
-- auspice.json = config file
+- auspice.json = config file (general config)
+- auspice-internal.json = internal uses only (CDPHE), has county and submitter included
+- auspice-external.json = external uses, for anyone who just wants to look at the Nextstrain
 - build.yaml = subsampling and build
 - colors.txt = colors for nextstrain
 - lat_longs.txt = longitude and latitude coordinates
